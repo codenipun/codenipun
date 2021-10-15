@@ -10,6 +10,6 @@
       [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nipunjain119@gmail.com)](mailto:nipunjain119@gmail.com)
                 
 <br></br>
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=codenipun&theme=xcode" alt="drawing" width="800px" height="400px"/>
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=codenipun&theme=xcode" alt="drawing" width="800px" height="300px"/>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api/?username=codenipun&show_icons=true&count_private=true&showicons=true />       
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=codenipun&label=visitors%20&color=129e00&style=plastic" alt="hanshulll" /> 
