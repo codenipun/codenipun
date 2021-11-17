@@ -5,8 +5,8 @@
 * 📫  To contact me shoot me a mail at nipunjain119@gmail.com
 * Find me on the web  
 <br></br>
-      [![Linkedin Badge](https://img.shields.io/badge/-NipunJain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/nipun-jain-49b0521b8/)](https://linkedin.com/in/nipun-jain-49b0521b8/)
-      [![Instagram Badge](https://img.shields.io/badge/-NipunJain-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_nipun18/)](https://www.instagram.com/_nipun18/)
+      [![Linkedin Badge](https://img.shields.io/badge/-NipunJain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/nipun-jain-49b0521b8/)](https://linkedin.com/in/nipun-jain-49b0521b8/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      [![Instagram Badge](https://img.shields.io/badge/-NipunJain-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_nipun18/)](https://www.instagram.com/_nipun18/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nipunjain119@gmail.com)](mailto:nipunjain119@gmail.com)
                 
 <br></br>
