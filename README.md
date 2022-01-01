@@ -21,7 +21,7 @@
 [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-ffbb00?style=flat-square&logo=Leetcode&logoColor=black&link=https://leetcode.com/nipun18/)](https://leetcode.com/nipun18/) &nbsp;&nbsp;</br>
 [![geeksforgeeks Badge](https://img.shields.io/badge/-geeksforgeeks-1d541f?style=flat-square&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/nipun18/practice/)](https://auth.geeksforgeeks.org/user/nipun18/practice/) &nbsp;&nbsp;
       
-<br></br>
+
 <h1> Stuffs I have been working on &#x26A1 </h1>
 <p float="left">
 <p align='center' float="left">
@@ -47,7 +47,7 @@
   </tr>
 </table>
 
-<br></br>
+
 
 # Contribution Graph :
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=codenipun&theme=xcode" alt="drawing" width="800px" height="300px"/>
