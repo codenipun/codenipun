@@ -52,4 +52,4 @@
 # Contribution Graph :
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=codenipun&theme=xcode" alt="drawing" width="800px" height="300px"/>
     
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=codenipun&label=visitors%20&color=129e00&style=plastic" alt="hanshulll" /> 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=codenipun&label=visitors%20&color=129e00&style=plastic" alt="Nipun" /> 
