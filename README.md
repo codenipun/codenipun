@@ -29,12 +29,12 @@
 <img src="https://i.stack.imgur.com/JlSEL.png" alt="drawing" width="50px" margin="70px"/>
 <img src="https://mpng.subpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg" alt="drawing" width="80px"/>
 <img src="https://user-images.githubusercontent.com/84225692/121023269-bf2d5700-c7c0-11eb-997c-3b25c1eb8048.png" alt="drawing" width="60px"/>
-<img src="https://user-images.githubusercontent.com/84225692/121027262-737cac80-c7c4-11eb-80e7-ceb1c9bd85df.png" alt="drawing" width="50px"/>
+<img src="https://user-images.githubusercontent.com/83864140/159668101-a8d5af37-cb51-4b2e-aa93-d108597f9a5f.png" alt="drawing" width="70px"/>     
+<img src="https://user-images.githubusercontent.com/83864140/159667235-09c25566-1254-4111-9d7b-2054b8c81d25.png" alt="drawing" width="60px"/>
 <img src="https://user-images.githubusercontent.com/84225692/122896195-73ed7980-d366-11eb-84f5-d24b1fe7a484.png" alt="drawing" width="50px"/>
 <img src="https://user-images.githubusercontent.com/84225692/123043398-da7da080-d415-11eb-85e4-2ec309014b6f.png" alt="drawing" width="50px"/>
-<img src="https://user-images.githubusercontent.com/83864140/147858436-37ba7f32-e49a-4764-a825-5ef6e9517901.png" alt="drawing" width="70px"/>
+<!-- <img src="https://user-images.githubusercontent.com/83864140/147858436-37ba7f32-e49a-4764-a825-5ef6e9517901.png" alt="drawing" width="70px"/> -->
 <br></br>
-
 
 # Github Activity📊:
 <table align='center'>
