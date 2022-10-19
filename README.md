@@ -1,7 +1,7 @@
 <h2 align="center"> <img height="45" width="45" src="https://user-images.githubusercontent.com/84225692/121017728-39f37380-c7bb-11eb-91ca-43fdb725c42b.gif"<br> Hello Peoples! </h2>
 <img height="280" width="330" src="https://user-images.githubusercontent.com/84225692/121028374-6613f200-c7c5-11eb-9ae9-fd8bd02ca2ba.gif" align="right"/>
 
-* I am Nipun Jain, Pre-final Year UnderGrad Pursuing Btech from JKIAPT
+* I am Nipun Jain, final Year UnderGrad Pursuing Bachelor's of technology from JKIAPT
 * I love to do programming and problem solving
 * I'm Enthusiast about softwares and Technologies, An Open source contributer 
 * Open to Internship opportunities in software domain
