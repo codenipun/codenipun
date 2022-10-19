@@ -25,14 +25,15 @@
 <h1> Stuffs I have been working on &#x26A1 </h1>
 <p float="left">
 <p align='center' float="left">
-<img src="https://user-images.githubusercontent.com/84225692/121073289-f404d280-c7ef-11eb-8c24-550b9ec71d35.png" alt="drawing" width="40px"/> 
-<img src="https://i.stack.imgur.com/JlSEL.png" alt="drawing" width="50px" margin="70px"/>
-<img src="https://mpng.subpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg" alt="drawing" width="80px"/>
-<img src="https://user-images.githubusercontent.com/84225692/121023269-bf2d5700-c7c0-11eb-997c-3b25c1eb8048.png" alt="drawing" width="60px"/>
-<img src="https://user-images.githubusercontent.com/83864140/159668101-a8d5af37-cb51-4b2e-aa93-d108597f9a5f.png" alt="drawing" width="70px"/>     
+<img src="https://user-images.githubusercontent.com/84225692/121073289-f404d280-c7ef-11eb-8c24-550b9ec71d35.png" alt="drawing" width="60px"/> 
+<img src="https://user-images.githubusercontent.com/83864140/196642751-abea5e9c-3ddc-447a-8f1c-7e576b5ed58e.png" alt="drawing" width="60px" margin="70px"/>
+<img src="https://user-images.githubusercontent.com/83864140/196642786-c88e0d94-63ee-4a01-96e0-1f7a56d7c154.png" alt="drawing" width="60px"/>
+<img src="https://user-images.githubusercontent.com/83864140/159668101-a8d5af37-cb51-4b2e-aa93-d108597f9a5f.png" alt="drawing" width="60px"/>     
 <img src="https://user-images.githubusercontent.com/83864140/159667235-09c25566-1254-4111-9d7b-2054b8c81d25.png" alt="drawing" width="60px"/>
-<img src="https://user-images.githubusercontent.com/84225692/122896195-73ed7980-d366-11eb-84f5-d24b1fe7a484.png" alt="drawing" width="50px"/>
-<img src="https://user-images.githubusercontent.com/84225692/123043398-da7da080-d415-11eb-85e4-2ec309014b6f.png" alt="drawing" width="50px"/>
+<img src="https://user-images.githubusercontent.com/83864140/196642814-ad0e9566-b65a-4df5-8662-7a584c4319c4.png" alt="drawing" width="60px"/>
+<img src="https://user-images.githubusercontent.com/83864140/196642832-7708513b-3484-4e49-a1a8-d61ac01a537d.png" alt="drawing" width="60px"/>
+<img src="https://user-images.githubusercontent.com/83864140/196646230-a5c1fbcf-c6c4-4742-98d7-b4bf8846a43d.png" alt="drawing" width="60px"/>
+<img src="https://user-images.githubusercontent.com/83864140/196642976-9eded8ca-fba0-4111-aca9-6077bf9ddbc7.png" alt="drawing" width="60px"/>
 <!-- <img src="https://user-images.githubusercontent.com/83864140/147858436-37ba7f32-e49a-4764-a825-5ef6e9517901.png" alt="drawing" width="70px"/> -->
 <br></br>
 
