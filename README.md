@@ -25,7 +25,7 @@
 <h1> Stuffs I have been working on &#x26A1 </h1>
 <p float="left">
 <p align='center' float="left">
-<img src="https://user-images.githubusercontent.com/84225692/121073289-f404d280-c7ef-11eb-8c24-550b9ec71d35.png" alt="drawing" width="60px"/> 
+<img src="https://user-images.githubusercontent.com/84225692/121073289-f404d280-c7ef-11eb-8c24-550b9ec71d35.png" alt="drawing" width="50px"/> 
 <img src="https://user-images.githubusercontent.com/83864140/196642751-abea5e9c-3ddc-447a-8f1c-7e576b5ed58e.png" alt="drawing" width="60px" margin="70px"/>
 <img src="https://user-images.githubusercontent.com/83864140/196642786-c88e0d94-63ee-4a01-96e0-1f7a56d7c154.png" alt="drawing" width="60px"/>
 <img src="https://user-images.githubusercontent.com/83864140/159668101-a8d5af37-cb51-4b2e-aa93-d108597f9a5f.png" alt="drawing" width="60px"/>     
