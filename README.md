@@ -1,10 +1,11 @@
 <h2 align="center"> <img height="45" width="45" src="https://user-images.githubusercontent.com/84225692/121017728-39f37380-c7bb-11eb-91ca-43fdb725c42b.gif"<br> Hello Peoples! </h2>
 <img height="280" width="330" src="https://user-images.githubusercontent.com/84225692/121028374-6613f200-c7c5-11eb-9ae9-fd8bd02ca2ba.gif" align="right"/>
 
-* I am Nipun Jain, final Year UnderGrad Pursuing Bachelor's of technology from JKIAPT
-* I love to do programming and problem solving
-* I'm Enthusiast about softwares and Technologies, An Open source contributer 
-* Open to Internship opportunities in software domain
+* Hi there, This is Nipun Jain, a final Year UnderGraduate Pursuing Bachelor's of technology from JKIAPT
+* Strong in design and development with intuitive problem solving skills.
+* Passionate about implementing and launching new projects. 
+* Proficient in C, C++, OOPS, DSA, and SQL.
+* Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
 
 <h2 > Connect with me </h2>
 <p float="left">
@@ -13,10 +14,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nipunjain119@gmail.com)](mailto:nipunjain119@gmail.com) &nbsp;&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-005875?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/nipun-jain-49b0521b8/)](https://linkedin.com/in/nipun-jain-49b0521b8/) &nbsp;&nbsp;
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white&link=https://www.github.com/codenipun)](https://www.github.com/codenipun) &nbsp;&nbsp;
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-fc03c2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_nipun18/)](https://www.instagram.com/_nipun18/) &nbsp;&nbsp;
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-fc03c2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_nipun18/)](https://www.instagram.com/jain__nipun/) &nbsp;&nbsp;
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-04a0d4?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Nipun58879642/)](https://twitter.com/Nipun58879642/) &nbsp;&nbsp;
       
-# Programming
+# Coding and Programming
+- Solved 500+ Programming Problems across different coding platforms <br></br>
 [![Codechef Badge](https://img.shields.io/badge/-Codechef-d9ba57?style=flat-square&logo=codechef&logoColor=black&link=https://www.codechef.com/users/nipunjain18)](https://www.codechef.com/users/nipunjain18) &nbsp;&nbsp;</br>
 [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-ffbb00?style=flat-square&logo=Leetcode&logoColor=black&link=https://leetcode.com/nipun18/)](https://leetcode.com/nipun18/) &nbsp;&nbsp;</br>
 [![geeksforgeeks Badge](https://img.shields.io/badge/-geeksforgeeks-1d541f?style=flat-square&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/nipun18/practice/)](https://auth.geeksforgeeks.org/user/nipun18/practice/) &nbsp;&nbsp;
