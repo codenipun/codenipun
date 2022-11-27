@@ -39,7 +39,6 @@
 <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/83864140/196642976-9eded8ca-fba0-4111-aca9-6077bf9ddbc7.png" alt="drawing" width="60px"/> </a>
 
 <br></br>
-[sass]()
 
 
 # Github Activity📊:!
