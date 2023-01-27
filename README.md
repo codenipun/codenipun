@@ -34,14 +34,15 @@
 <a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/83864140/159667235-09c25566-1254-4111-9d7b-2054b8c81d25.png" alt="drawing" width="60px"/> </a>
 <a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/83864140/196642814-ad0e9566-b65a-4df5-8662-7a584c4319c4.png" alt="drawing" width="60px"/> </a>
 <a href="https://www.mongodb.com/"><img src="https://user-images.githubusercontent.com/83864140/196642832-7708513b-3484-4e49-a1a8-d61ac01a537d.png" alt="drawing" width="60px"/> </a>
-<a href="https://expressjs.com/"><img src="https://user-images.githubusercontent.com/83864140/196646230-a5c1fbcf-c6c4-4742-98d7-b4bf8846a43d.png" alt="drawing" width="60px"/> </a>
+<a href="https://expressjs.com/"><img src="https://user-images.githubusercontent.com/83864140/215039956-e12015a8-9254-415c-b828-4605b7afc9d6.png" alt="drawing" width="110px" height=40px"/> </a>
+<a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/83864140/215038538-5e236343-9768-4bb4-bae9-3645b7f62c8d.png" alt="drawing" width="80px" height="60px"/> </a>
 <a href="https://www.sass-lang.com/"><img src="https://user-images.githubusercontent.com/83864140/203945039-98c9b707-5c72-47db-b233-889023d51f89.png" alt="drawing" width="60px"/> </a>
 <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/83864140/196642976-9eded8ca-fba0-4111-aca9-6077bf9ddbc7.png" alt="drawing" width="60px"/> </a>
 
 <br></br>
 
+# Github Activity📊:!!
 
-# Github Activity📊:!
 
 <table align='center'>
   <tr>
@@ -56,6 +57,6 @@
 
 
 # Contribution Graph :
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=codenipun&theme=xcode" alt="drawing" width="800px" height="300px"/>
+<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=codenipun&theme=merko" alt="drawing" width="800px" height="300px"/>
     
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=codenipun&label=visitors%20&color=129e00&style=plastic" alt="Nipun" /> 
