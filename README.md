@@ -43,7 +43,7 @@
 
 <br></br>
 
-# Github Activity📊:!!
+# Github Activity📊:
 
 
 <table align='center'>
@@ -58,7 +58,8 @@
 
 
 
-# Contribution Graph :
+
+# Contribution Graph <img src="https://user-images.githubusercontent.com/83864140/215045415-903ef526-80f3-4b89-b68b-1ccf082f4ec0.svg" height="30"/> :
 <p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=codenipun&theme=merko" alt="drawing" width="800px" height="300px"/>
     
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=codenipun&label=visitors%20&color=129e00&style=plastic" alt="Nipun" /> 
