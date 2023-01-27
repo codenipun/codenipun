@@ -36,8 +36,10 @@
 <a href="https://www.mongodb.com/"><img src="https://user-images.githubusercontent.com/83864140/196642832-7708513b-3484-4e49-a1a8-d61ac01a537d.png" alt="drawing" width="60px"/> </a>
 <a href="https://expressjs.com/"><img src="https://user-images.githubusercontent.com/83864140/215039956-e12015a8-9254-415c-b828-4605b7afc9d6.png" alt="drawing" width="110px" height=40px"/> </a>
 <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/83864140/215038538-5e236343-9768-4bb4-bae9-3645b7f62c8d.png" alt="drawing" width="80px" height="60px"/> </a>
+<a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/83864140/215042974-9348b994-7bcb-4e98-8e2b-d6a808aad3f3.png" alt="drawing" width="110px" height="35px"/> </a>
 <a href="https://www.sass-lang.com/"><img src="https://user-images.githubusercontent.com/83864140/203945039-98c9b707-5c72-47db-b233-889023d51f89.png" alt="drawing" width="60px"/> </a>
 <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/83864140/196642976-9eded8ca-fba0-4111-aca9-6077bf9ddbc7.png" alt="drawing" width="60px"/> </a>
+
 
 <br></br>
 
