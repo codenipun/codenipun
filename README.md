@@ -2,7 +2,7 @@
 <img height="280" width="330" src="https://user-images.githubusercontent.com/84225692/121028374-6613f200-c7c5-11eb-9ae9-fd8bd02ca2ba.gif" align="right"/>
 
 * Hi there, This is Nipun Jain, 2023 Graduate with Bachelor's of technology from JKIAPT
-* Ex-SDE Intern @ Keev
+* Software Developer Intern @FarMart || Ex-SDE Intern @ Keev
 * Strong in design and development with intuitive problem solving skills.
 * Passionate about implementing and launching new projects. 
 * Proficient in C, C++, OOPS, DSA, and SQL.
